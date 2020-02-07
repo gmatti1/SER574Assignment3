@@ -1,4 +1,4 @@
-# SER574Assignment3
+# SER574Assignment3 - Tanks
 
 Clone the repository and open it in Unity.
 
